@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Historical places in india</title>
+</head>
+<body bgcolor=#BDBDBD>
+   <h1 style="text-align:center;background-color:rgba(255, 0, 0, 0.914)"> <b>Histroical places in India</b></h1>
+   <p style="color:#424242">Taj Mahal, Agra Fort, Red Fort, Qutub Minar, Fatehpur Sikri, Hawa Mahal, Victoria Mahal, Humayun's Tomb,
+     Khajuraho Temples, Jallianwala Bagh, Sanchi Stupa, Meenakshi Amman Temple, Golden Temple, Elephanta Caves, and many more.</p>
+    <div class="'historical">
+        <div class="icon">
+            <div class="items">
+                <h2 style="text-align:center;background-color:#FDD835">1.Taj Mahal</h2>
+                <p style="color:#424242">This mausoleum complex in Agra, India, is regarded as one of the world’s most iconic monuments
+                     and is perhaps the finest example of Mughal architecture.This mausoleum complex in Agra, India, is regarded as one
+                      of the world’s most iconic monuments and is perhaps the finest example of Mughal architectureThis mausoleum 
+                      complex in Agra, India, is regarded as one of the world’s most iconic monuments and is perhaps the finest example 
+                      of Mughal architecture.</p>
+                <center><a href="https://en.wikipedia.org/wiki/Taj_Mahal"><img src="https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg?q=60" 
+                    alt="Taj mahal" width="500" height="400" ></a></center>
+            </div>
+        </div>
+        <div class="items">
+            <h2 style="text-align:center;background-color:#FDD835">2.Agra Fort</h2>
+            <p style="color:#424242">The Agra Fort is a historical fort in the city of Agra in India also known as the Red Fort. 
+                Rebuilt by the Mughal emperor Akbar in 1565 and completed in 1573, it served as the main residence of the rulers
+                of the Mughal Dynasty until 1638, when the capital was shifted from Agra to Delhi. It was also known as the “Lal-Qila”,
+                 “Fort Rouge” or “Qila-i-Akbari”.Before capture by the British, the last Indian rulers to have occupied it were the
+                  Marathas. In 1983, the Agra fort was life inscribed as a UNESCO World Heritage Site.It is about 2.5 km northwest 
+                  of its more famous sister monument, the Taj Mahal. The fort can be more accurately described as a walled city.</p>
+                  <center><a hreg="https://en.wikipedia.org/wiki/Agra_Fort"></a><img src='https://media.istockphoto.com/id/1169495248/photo/agra-fort-medieval-indian-fort-at-agra-india-at-sunrise.jpg?b=1&s=170667a&w=0&k=20&c=bnvqz7W7b-sIlpR0Wd3d6DKcADyo--g8eAAS0uwbJis='></center>
+            </div>
+            <div class="'items">
+                <h2 style="text-align:center;background-color:#FDD835">3.Red Fort</h2>
+                <p style="color:#424242">The Red Fort or Lal Qila (Hindustani is a historic fort in Old Delhi, Delhi in India that served as the main residence of the Mughal Emperors. Emperor Shah Jahan commissioned construction of the Red Fort on 12 May 1638, when he decided to shift his capital from Agra to Delhi. Originally red and white, its design is credited to architect Ustad Ahmad Lahori, who also constructed the Taj Mahal. The fort represents the peak in Mughal architecture under Shah Jahan, and combines Persianate palace architecture with Indian traditions.</p>
+                <center><a hreg="https://en.wikipedia.org/wiki/Red_Fort"></a><img src='https://media.istockphoto.com/id/520840182/photo/red-fort-lal-qila-with-indian-flag-delhi-india.jpg?b=1&s=170667a&w=0&k=20&c=R3bnPnfQGz4OP4yezX8iqxd5Bc11mSb-UXP92RrAQNA=' alt="Red Fort" width="500" height="400"></center>
+            </div>
+            <div class='items'>
+                <h2 style="text-align:center;background-color:#FDD835">4.Qutub Minar</h2>
+                <p style="color:#424242">The Qutb Minar, also spelled Qutub Minar and Qutab Minar, is a minaret and "victory tower" that forms part of the Qutb complex, which lies at the site of Delhi’s oldest fortified city, Lal Kot, founded by the Tomar Rajputs.It is a UNESCO World Heritage Site in the Mehrauli area of South Delhi, India.It is one of the most visited tourist spots in the city, mostly built between 1199 and 1220.</p>
+                <center><a hreg="https://en.wikipedia.org/wiki/Qutb_Minar"></a><img src='https://media.istockphoto.com/id/1160975059/pt/foto/qutub-minar-and-its-monuments-delhi.jpg?b=1&s=170667a&w=0&k=20&c=ShdgI_RDvGLmnRQejI4VvwyJd3vA6o_3COi9q64hg34=' alt="Red Fort" width="500" height="400"></center>
+            </div>
+            <div class="'items">
+                <h2 style="text-align:center;background-color:#FDD835">5.Hawa Mahal</h2>
+                <p style="color:#424242">The Hawa Mahal is a palace in the city of Jaipur, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers.
+
+                    The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of Jaipur, India.He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace.</p>
+                <center><a hreg="https://en.wikipedia.org/wiki/Hawa_Mahal"></a><img src='https://media.istockphoto.com/id/1296821384/id/foto/pemandangan-malam-hawa-mahal-jaipur.jpg?b=1&s=170667a&w=0&k=20&c=p1kdEcXAdpSOSS4y4lq8N1j-h1QNeqc6yRF6Ojfr4Eo=' alt="Red Fort" width="500" height="400"></center>
+            </div>
+            <div class="items">
+                <h2 style="text-align:center;background-color:#FDD835">6.Golden Temple</h2>
+                <p style="color:#424242">The Golden Temple (also known as the Harmandir Sahib, lit. 'abode of God',or the Darbār Sahib, 'exalted court') is a gurdwara located in the city of Amritsar, Punjab, India.It is the preeminent spiritual site of Sikhism. It is one of the holiest sites in Sikhism, alongside the Gurdwara Darbar Sahib Kartarpur in Kartarpur, and Gurdwara Janam Asthan in Nankana Sahib.</p>
+                <center><a hreg="https://en.wikipedia.org/wiki/Golden_Temple"></a><img src='https://media.istockphoto.com/id/518370948/photo/golden-temple-of-amritsar-pubjab-india.jpg?b=1&s=170667a&w=0&k=20&c=yPHXZ_qk-7Bs1cAGWD_9lFdAUoOA8ZBZdcmBE2uuyLo=' alt="Red Fort" width="500" height="400"></center>
+            </div>
+    </div>
+    <h2 style="text-align:right;background-color:red"><i>Designed by and Developed by - Nitish Sheoran<i></h2>
+<h2></h2>
+</body>
+</html>  
